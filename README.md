@@ -1,3 +1,4 @@
+GitHub Username: Seongyong36
 # lab02-supplementary
 Supplementary repo for lab 02.
 
@@ -7,6 +8,6 @@ Name: huytran1
 
 Name: huytrtran
 
-Name: other
+Name:
 
 Name: other2
