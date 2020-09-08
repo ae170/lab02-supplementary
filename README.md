@@ -3,10 +3,6 @@ Supplementary repo for lab 02.
 
 ## Contact Information
 
-Name: huytran1
+Name: Connor Kramer
 
-Name: huytrtran
-
-Name: other
-
-Name: other2
+Name: Pallavi Ravada
