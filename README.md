@@ -3,10 +3,6 @@ Supplementary repo for lab 02.
 
 ## Contact Information
 
-Name: huytran1
+Name: Kirk Shen Leck
 
-Name: huytrtran
-
-Name: other
-
-Name: other2
+Name: Dennis McCann
