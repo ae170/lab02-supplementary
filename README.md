@@ -3,9 +3,9 @@ Supplementary repo for lab 02.
 
 ## Contact Information
 
-Name: huytran1
+Name: kylezy2
 
-Name: huytrtran
+Name: kyleyoung
 
 Name: other
 
