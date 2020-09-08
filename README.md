@@ -7,6 +7,6 @@ Name: huytran1
 
 Name: huytrtran
 
-Name: other
+Name: brodyl2
 
-Name: other2
+Name: brodyl2@illinois.edu
