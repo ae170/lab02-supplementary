@@ -3,9 +3,9 @@ Supplementary repo for lab 02.
 
 ## Contact Information
 
-Name: huytran1
+Name: Matt Zollner
 
-Name: huytrtran
+Name: Eric Monson
 
 Name: other
 
