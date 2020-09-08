@@ -2,6 +2,7 @@
 Supplementary repo for lab 02.
 
 ## Contact Information
+Github Username: vkodali2-uofi
 
 Name: huytran1
 
