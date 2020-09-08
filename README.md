@@ -5,7 +5,7 @@ Supplementary repo for lab 02.
 
 Name: Matt Zollner
 
-Name: Eric Monson
+Name: Eric Monson 
 
 Name: other
 
