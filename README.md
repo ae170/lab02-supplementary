@@ -3,9 +3,9 @@ Supplementary repo for lab 02.
 
 ## Contact Information
 
-Name: huytran1
+Name: Paula Knaack
 
-Name: huytrtran
+Name: pknaack2
 
 Name: other
 
