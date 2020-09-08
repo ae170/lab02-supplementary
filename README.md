@@ -3,10 +3,6 @@ Supplementary repo for lab 02.
 
 ## Contact Information
 
-Name: huytran1
+Net iD: vasantc2
 
-Name: huytrtran
-
-Name: other
-
-Name: other2
+Name: Vasant Chalemcherla
