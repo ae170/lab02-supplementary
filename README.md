@@ -5,5 +5,5 @@ Supplementary repo for lab 02.
 
 Name: Matt Zollner
 Github Name: zollner3
-Email:zollner3@illinois.edu
+Email: zollner3@illinois.edu
 
